@@ -11,6 +11,7 @@ api: 0.6.0
 
 package:
   - app.py
+  - run.sh
 
 keywords:
   - simple
