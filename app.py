@@ -10,7 +10,7 @@ ch = RappPlatformAPI()
 
 rh.audio.setVolume(50)
 rh.motion.enableMotors()
-rh.audio.speak("Hello")
+rh.audio.speak("Hello there")
 rh.motion.disableMotors()
 
 
