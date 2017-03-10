@@ -1,6 +1,6 @@
 language: python
 name: speak_application
-version: 0.1.4
+version: 0.1.5
 
 platform:
   - target : ubuntu
