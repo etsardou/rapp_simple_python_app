@@ -9,7 +9,7 @@ from RappCloud import RappPlatformAPI
 ch = RappPlatformAPI()
 
 rh.audio.setVolume(100)
-rh.audio.speak("Hello there RAPP")
+rh.audio.speak("Hello there reviewers")
 
 
 
